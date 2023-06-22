@@ -4,5 +4,4 @@ d = (a + b) * c
 imprimir = True
 if imprimir:
     print(x, d)
-if imprimir:
-    print ('entra por segunda vez')
+    

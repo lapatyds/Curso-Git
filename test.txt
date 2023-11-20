@@ -1,4 +1,8 @@
 ESto es una prueba
 y esto es otra
 y esta es una tercera linea
+<<<<<<< HEAD
 esta linea no estará en master
+=======
+Este cambio no está en dev
+>>>>>>> Changes in master
